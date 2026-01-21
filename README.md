@@ -17,7 +17,7 @@ Track Month-to-Date (MTD) and Month-over-Month (MoM) performance
 
 Build interactive dashboards for executive-level insights
 
-🛠️ Tools & Technologies Used
+ Tools & Technologies Used
 
 SQL – Data cleaning, transformation, and querying
 
